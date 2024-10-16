@@ -1,7 +1,7 @@
 import pygame, random, sys
 from pygame.locals import *
 #kurban beach
-#kk
+
 WINDOWWIDTH = 1000
 WINDOWHEIGHT = 600
 TEXTCOLOR = (0, 0, 0)
