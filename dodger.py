@@ -1,5 +1,6 @@
 import pygame, random, sys
 from pygame.locals import *
+#kurban beach
 
 WINDOWWIDTH = 1000
 WINDOWHEIGHT = 600
