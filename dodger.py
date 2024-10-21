@@ -1,5 +1,8 @@
 import pygame, random, sys
 from pygame.locals import *
+#kurban beach
+#pillier du groupe
+#test
 
 WINDOWWIDTH = 1000
 WINDOWHEIGHT = 600
