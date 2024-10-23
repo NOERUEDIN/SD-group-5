@@ -4,6 +4,9 @@ from pygame.locals import *
 #pillier du groupe
 #test
 #La Daronne à Kyks la fleuriste
+#Hello World
+
+
 WINDOWWIDTH = 1000
 WINDOWHEIGHT = 600
 TEXTCOLOR = (0, 0, 0)
